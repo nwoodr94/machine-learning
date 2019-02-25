@@ -1,6 +1,6 @@
 # machine-learning
 
-This repository showcases typical use cases of machine learning algorithms. Here I will expound on my work and also generalize the mathematics so that their ability to solve problems are interpretable by your organization's needs.
+This repository contains typical use cases of machine learning algorithms. Here I will expound on my work and also generalize the mathematics so that their ability to solve problems are interpretable by your organization's needs.
 
 ### Linear Regression
 The linear regression is is a machine learning algorithm that takes linear data as input, and generates a line of best fit.
