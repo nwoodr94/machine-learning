@@ -9,7 +9,7 @@ This algorithm is useful for business analytics such as forecasting, projections
 [Here](https://github.com/nwoodr94/machine-learning/blob/master/Linear-Regression-scikit-learn.ipynb) is a project I coded using the linear regression algorithm, which took as input current production trends in beekeeping, and predicted future honey output.
 
 ### Multiple Linear Regression
-The multiple linear regression is a machine learning algorithm that computes a line of best fit by regressing a function of multiple variables. Example use cases of this algorithm involve maximizing real estate returns given a rental properties many features, or predicting manufacturing output provided many state variables.
+The multiple linear regression is a machine learning algorithm that computes a line of best fit by regressing a function of multiple variables. Example use cases of this algorithm involve maximizing real estate returns given a rental properties many features, or predicting manufacturing output provided many variables.
 
 [Here](https://github.com/nwoodr94/machine-learning/blob/master/Multiple-Linear-Regression-scikit-learn.ipynb) is a project I coded which uses a multiple linear regression algorithm to predict rental prices for apartments in New York City with 80% accuracy.
 
@@ -24,7 +24,7 @@ The naive bayes is a machine learning and natural language processing algorithm 
 [Here](https://github.com/nwoodr94/machine-learning/blob/master/Naive-Bayes-scikit-learn.ipynb) is a project I coded using a naive bayes algorithm which classified the subject of an email using its word content with 99% accuracy. 
 
 ### K-Nearest Neighbors
-The k-nearest neighbors is a machine learning algorithm which takes an unknown datapoint, and classifies it by polling the labels of its neighboring data. It is among the most powerful machine learning algorithms, frequently deployed in recommendation engines used by online entertainment and shopping entities.
+The k-nearest neighbors is a machine learning algorithm which takes an unknown datapoint, and classifies it by polling the labels of its neighboring data. It is among the most powerful machine learning algorithms for future industries, deployed in recommendation engines and genetic sequencing technologies.
 
 [Here](https://github.com/nwoodr94/machine-learning/blob/master/K-Nearest-Neighbors-scikit-learn.ipynb) is a project I coded using a k-nearest neighbors algorithm, which interpreted MRI scans to isolate and classify cancerous tumours with 96% accuracy.
 
