@@ -11,7 +11,7 @@ This algorithm is useful for business analytics such as forecasting, projections
 ### Multiple Linear Regression
 The multiple linear regression is a machine learning algorithm that computes a line of best fit by regressing a function of multiple variables. Example use cases of this algorithm involve maximizing real estate returns given a rental properties many features, or predicting manufacturing output provided many variables.
 
-[Here](https://github.com/nwoodr94/machine-learning/blob/master/Multiple-Linear-Regression-scikit-learn.ipynb) is a project I coded which uses a multiple linear regression algorithm to predict rental prices for apartments in New York City with 80% accuracy.
+[Here](https://github.com/nwoodr94/machine-learning/blob/master/Multiple-Linear-Regression-scikit-learn.ipynb) is a project I coded which uses a multiple linear regression algorithm to predict rental prices for apartments in New York City with 82% accuracy.
 
 ### Logistic Regression
 The logistic regression is a machine learning algorithm which computes binary probabilities given specified features. For example, this algorithm could predict which students pass an exam, or what survival odds a person has in a natural disaster.
