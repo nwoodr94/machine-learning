@@ -46,5 +46,5 @@ The perceptron is a machine learning algorithm that classifies linearly seperabl
 ### KMeans Clustering
 The kmeans clustering is a machine learning algorithm which performs the k-nearest neighbors classification without human in-the-loop supervision. Typically for a desired outcome labels will be provided. This algorithm is capable of use cases including computer vision, or an otherwise unstructured k-nearest neighbors application.
 
-[Digits](https://github.com/nwoodr94/machine-learning/blob/master/KMeans-Clustering-scikit-learn.ipynb) is a project I coded using a kmeans clustering algorithm, which interpreted my hand written numerical input and named the digits with varying accuracy.
-[Iris](https://github.com/nwoodr94/machine-learning/blob/master/KMeans-Clustering-Iris-scikit-learn.ipynb) is a kmeans model that classifies subspecies of flora using only their dimensions with 84% accuracy.
+1. [Digits](https://github.com/nwoodr94/machine-learning/blob/master/KMeans-Clustering-scikit-learn.ipynb) is a project I coded using a kmeans clustering algorithm, which interpreted my hand written numerical input and named the digits with varying accuracy.
+2. [Iris](https://github.com/nwoodr94/machine-learning/blob/master/KMeans-Clustering-Iris-scikit-learn.ipynb) is a kmeans model that classifies subspecies of flora using only their dimensions with 84% accuracy.
