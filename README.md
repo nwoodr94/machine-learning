@@ -1,9 +1,9 @@
 # machine-learning
 
-This repository contains typical use cases of machine learning algorithms. Here I will expound on my work and also generalize the mathematics so that their ability to solve problems are interpretable by your organization's needs.
+This repository contains typical use cases of machine learning algorithms. Here I will show my work, and also generalize the mathematics so that their ability to solve problems are interpretable by your organization's needs.
 
 ### Linear Regression
-The linear regression is is a machine learning algorithm that takes linear data as input, and generates a line of best fit.
+The linear regression is a machine learning algorithm that takes linear data as input, and generates a line of best fit.
 This algorithm is useful for business analytics such as forecasting, projections, and simple data analysis.
 
 [Honey Production](https://github.com/nwoodr94/machine-learning/blob/master/Linear-Regression-scikit-learn.ipynb) is a project I coded using the linear regression algorithm, which took as input current production trends in beekeeping, and predicted future honey output.
@@ -34,7 +34,7 @@ The decision tree is a machine learning algorithm which iterates through the fea
 [National Flag](https://github.com/nwoodr94/machine-learning/blob/master/Decision-Tree-scikit-learn.ipynb) is an implemented decision tree algorithm, which interpreted feature data of a nation's flag, and with 55% accuracy predicted which continent that nation is located.
 
 ### Random Forest
-The random forest is a machine learning algorithm that generates multiple decision trees, and polls the majority classification. It is considered a more robust approach to classification as it incorporates randomization techniques, and also computes feature importance. 
+The random forest is a ensemble learning algorithm that generates multiple decision trees, and polls the majority classification. It is considered a more robust approach to classification as it incorporates randomization techniques, and also computes feature importance. 
 
 [Income Predictor](https://github.com/nwoodr94/machine-learning/blob/master/Random-Forest-scikit-learn.ipynb) is a project I coded using a random forest algorithm to predict which Americans make over $50,000 year with 82% accuracy.
 
