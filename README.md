@@ -2,6 +2,8 @@
 
 This repository contains typical use cases of machine learning algorithms. Here I will show my work, and also generalize the mathematics so that their ability to solve problems are interpretable by your organization's needs.
 
+Also visit the [deep-learning](https://github.com/nwoodr94/machine-learning/tree/master/deep-learning) directory.
+
 ### Linear Regression
 The linear regression is a machine learning algorithm that takes linear data as input, and generates a line of best fit.
 This algorithm is useful for business analytics such as forecasting, projections, and simple data analysis.
