@@ -1,7 +1,5 @@
 # machine-learning
 
-[Home](https://nwoodr94.github.io/portfolio-website/)
-
 This repository contains typical use cases of machine learning algorithms. Here I will show my work, and also generalize the mathematics so that their ability to solve problems are interpretable by your organization's needs.
 
 ### Linear Regression
