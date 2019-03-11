@@ -1,8 +1,6 @@
-# machine-learning / deep learning
+# machine-learning
 
 This repository contains typical use cases of machine learning algorithms. Here I will show my work, and also generalize the mathematics so that their ability to solve problems are interpretable by your organization's needs.
-
-I have organized [deep-learning](https://github.com/nwoodr94/machine-learning/tree/master/deep-learning) models into their own directory.
 
 ### Linear Regression
 The linear regression is a machine learning algorithm that takes linear data as input, and generates a line of best fit.
@@ -50,3 +48,9 @@ The kmeans clustering is a machine learning algorithm which performs the k-neare
 
 1. [Digits](https://github.com/nwoodr94/machine-learning/blob/master/KMeans-Clustering-scikit-learn.ipynb) is a project I coded using a kmeans clustering algorithm, which interpreted my hand written numerical input and named the digits with varying accuracy.
 2. [Iris](https://github.com/nwoodr94/machine-learning/blob/master/KMeans-Clustering-Iris-scikit-learn.ipynb) is a kmeans model that classifies subspecies of flora using only their dimensions with 92% accuracy.
+
+# Deep Learning
+
+Here are more advanced models trained using deep learning technologies like TensorFlow and Keras.
+
+[Digits](https://github.com/nwoodr94/machine-learning/blob/master/deep-learning/deep_learning_MNIST.ipynb) is a deep learning model I developed which classifies numerical integers 0 - 10 with 97% accuracy.
