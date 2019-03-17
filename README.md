@@ -59,6 +59,6 @@ The multilayer perceptron approximates relationships between input and output pa
 [Digits](https://github.com/nwoodr94/machine-learning/blob/master/deep-learning/deep_learning_MNIST.ipynb) is a deep learning model I developed with Keras and TensorFlow, which classifies numerical integers 0 - 10 with 97% accuracy.
 
 ### Convolutional Neural Network
-The convolution is a matrix operation which discretizes input data and maps it to a reference, thereby making a classification. The technique was invented to work with image data, and its most common use cases involve computer vision and image labeling.
+The convolution is a matrix operation which discretizes input data and compares it to a reference, thereby making a classification. The technique was invented to work with image data, and its most common use cases involve computer vision and image labeling.
 
 [Cats and Dogs](https://github.com/nwoodr94/machine-learning/blob/master/deep-learning/Cats-and-Dogs-OpenCV.ipynb) is a computer vision model built with OpenCV, Keras, and TensorFlow, which classifies cats and dogs with 77% accuracy.
